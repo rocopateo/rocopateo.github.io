@@ -89,12 +89,12 @@ const siteConfig: SiteConfig = {
         title: '',
         text: "",
         image: {
-            src: '/Jorogumo.jpg',
-            alt: 'The Jorōgumo, a captivating and eerie entity from Japan’s Edo period folklore, embodies a unique blend of seduction and menace. Derived from the Japanese terms "Jorō" meaning "to weave," and "kumo" meaning "spider," the name literally translates to "weaving spider."⁣'
+            src: '/laolaylaperla.jpg',
+            alt: '/elhombreyelmar.md⁣'
         },
         actions: [
             {
-                text: 'Get in Touch',
+                text: 'Como un nadador que se extasía en las olas',
                 href: '/contact'
             }
         ]
