@@ -74,8 +74,8 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         }
-        ]
-    }socialLinks: [
+        ],
+    socialLinks: [
         {
             text: 'Instagram',
             href: 'https://www.instagram.com/rocolinne/'
