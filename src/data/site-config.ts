@@ -90,12 +90,12 @@ const siteConfig: SiteConfig = {
         text: "",
         image: {
             src: '/laolaylaperla.jpg',
-            alt: '/elhombreyelmar.md⁣'
+            alt: 'cuadro de Baudry⁣'
         },
         actions: [
             {
                 text: 'Como un nadador que se extasía en las olas',
-                href: '/contact'
+                href: '/elhombreyelmar.md'
             }
         ]
     },
