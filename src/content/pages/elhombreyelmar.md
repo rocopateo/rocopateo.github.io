@@ -1,5 +1,5 @@
 ---
-title: "_El hombre y el mar_"
+title: "El hombre y el mar"
 seo:
   title: "_El hombre y el mar_"
   description: "Las flores del mal"
