@@ -1,8 +1,8 @@
 ---
-title: _El hombre y el mar_
+title: "_El hombre y el mar_"
 seo:
-  title: 
-  description: 
+  title: "_El hombre y el mar_"
+  description: "Las flores del mal"
 ---
 
 ¡Hombre libre, siempre adorarás el mar!
