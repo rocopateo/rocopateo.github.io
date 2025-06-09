@@ -74,6 +74,7 @@ const siteConfig: SiteConfig = {
             text: 'Contact',
             href: '/contact'
         }
+        ]
     socialLinks: [
         {
             text: 'Instagram',
