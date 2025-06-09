@@ -95,7 +95,7 @@ const siteConfig: SiteConfig = {
         actions: [
             {
                 text: 'Como un nadador que se extasía en las olas',
-                href: '/elhombreyelmar.md'
+                href: '/content/pages/elhombreyelmar.md'
             }
         ]
     },
